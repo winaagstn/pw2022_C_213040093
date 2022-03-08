@@ -3,7 +3,7 @@
 // if else
 // if else if else
 // ternary
-// ternary
+// switch
 
 $x = 20;
 if($x <20 ){
